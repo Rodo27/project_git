@@ -1,0 +1,5 @@
+Platzi Course Git 
+
+git init
+git add "file.ext"
+git commit -m "message"
